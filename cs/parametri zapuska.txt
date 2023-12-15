@@ -1,0 +1,1 @@
+-refresh 240 –freq 240 –novid -console -d3d9ex -threads 6 -heapsize 4194304 +mat_queue_mode 2 -forcenovsync -tickrate 128 -noforcemparms -high +cl_updaterate 128 +cl_cmdrate 128 +ex_interpratio 1 +rate 128000 muzzleflash_light 0 +fps_max 300 
